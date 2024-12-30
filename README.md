@@ -4,8 +4,8 @@
 This repository contains the winning project from the  AISHWI TECHNOLOGIES hackathon. The project is a comprehensive market strategy analysis using LinkedIn as a case study, focusing on job-related metrics, strategic insights, and user preferences.  
 
 ## **Contents**  
-1.**Documentation**  
-   - Comprehensive project report detailing methodology, analysis, and recommendations.
+1. **Documentation**  
+   - Comprehensive project report detailing methodology, analysis, and recommendations.  
      
 2. **Presentation**  
    - A detailed PPT summarizing the project's goals, methods, and findings.   
